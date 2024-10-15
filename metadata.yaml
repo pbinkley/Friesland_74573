@@ -1,0 +1,45 @@
+_repo: Friesland_74573
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Jan Voerman Jr.
+    gutenberg_agent_id: '57562'
+    url: http://www.gutenberg.org/2009/agents/57562
+  - agent_name: Koning, Edzard Willem
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '51632'
+    url: http://www.gutenberg.org/2009/agents/51632
+    wikipedia: https://nl.wikipedia.org/wiki/Edzard_Koning
+  - agent_name: Wenckebach, L.W.R.
+    gutenberg_agent_id: '57561'
+    url: http://www.gutenberg.org/2009/agents/57561
+creator:
+  author:
+    agent_name: Thijsse, Jac. P. (Jacobus Pieter)
+    alias: Thijsse, Jacobus Pieter
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '51391'
+    url: http://www.gutenberg.org/2009/agents/51391
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jac._P._Thijsse
+    - https://nl.wikipedia.org/wiki/Jac._P._Thijsse
+description: ''
+gutenberg_issued: '2024-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74573'
+language: nl
+pgterms:marc905: 20240629095856thijsse
+pgterms:marc906: '1918'
+pgterms:marc907: NL
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aNetherlands :$bVerkade''s Fabrieken, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Friesland
+url: http://www.gutenberg.org/ebooks/74573
